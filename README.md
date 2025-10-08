@@ -1,4 +1,4 @@
-> **Warning**
+> [!Warning]
 > This project is in early development, it does however work with real sats! Always use amounts you don't mind losing.
 
 # cashcrab
